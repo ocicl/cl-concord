@@ -4,6 +4,6 @@ A Common Lisp based implementation of Concord.
 
 |---------+---------------------------------------------------|
 | source  | git:https://gitlab.chise.org/CHISE/cl-concord.git |
-| commit  | 97426cf                                           |
+| commit  | cd7edb8                                           |
 | systems | cl-concord                                        |
 |---------+---------------------------------------------------|
